@@ -4,20 +4,32 @@
 
 I’m a **Software Engineering Intern at the [National Informatics Centre (NIC)](https://www.nic.gov.in/)**, currently based in **New Delhi, India**.  
 
-## 👨🏻‍💻 About Me  
 
-- 🚀 I craft modern, scalable applications with **React, Next.js, and TypeScript**  
-- 💡 Experienced in architecting backends with **Node.js, Express.js, Flask, PostgreSQL, MongoDB, Prisma, WebSockets**  
-- 📊 Worked on **API design, system architecture, and ML workflows** (using libraries like scikit-learn)  
-- 🌱 Currently exploring **cloud-native development, DevOps, and system design patterns**  
-- 🤝 Strong believer in **open-source collaboration** and building tools that solve real-world problems. 
+<details>
 
-> I believe in writing clean, efficient, and maintainable code — and I’m always excited to push the boundaries of what technology can achieve.  
+<summary><b style="font-size:22px">👨🏻‍💻 About Me </b></summary> 
+<br/>
+<ul>
+<li>🚀 I craft modern, scalable applications with <b>React</b>, <b>Next.js</b>, and <b>TypeScript</b> </li> 
+<li>💡 Experienced in architecting backends with <b>Node.js</b>, <b>Express.js</b>, <b>Flask</b>, <b>PostgreSQL</b>, <b>MongoDB</b>, <b>Prisma</b>, <b>WebSockets</b> </li> 
+<li>📊 Worked on <b>API design</b>, <b>system architecture</b>, and <b>ML workflows</b> (using libraries like scikit-learn)  </li>
+<li>🌱 Currently exploring <b>cloud-native development</b>, <b>DevOps</b>, and <b>system design patterns</b> </li> 
+<li>🤝 Strong believer in <b>open-source collaboration</b> and building tools that solve real-world problems.</li> 
+
+</ul>
+
+<p>I believe in writing clean, efficient, and maintainable code — and I’m always excited to push the boundaries of what technology can achieve. </p>
+</details>
+ 
+
+
 
 ---
 
-## 🛠️ Technologies and Tools  
+<details>
 
+<summary><b style="font-size:22px">🛠️ Technologies and Tools   </b></summary> 
+<br/>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="public/typescript.png" alt="TypeScript" width="40" height="40" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="public/react.png" alt="React" width="40" height="40"/></a>
@@ -37,11 +49,14 @@ I’m a **Software Engineering Intern at the [National Informatics Centre (NIC)]
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="public/css3.png" alt="CSS3" width="40" height="40"/></a>
   <a href="https://webpack.js.org/" target="_blank"><img src="public/webpack.png" alt="Webpack" width="40" height="40"/></a>
 </p>
-
+</details>
 
 ---
 
-## 📌 Featured Projects  
+<details>
+
+<summary><b style="font-size:22px">📌 Featured Projects</b></summary> 
+<br/>
 
 - 🔹 [**Networq**](https://github.com/devratdave/networq) | [🌐 Live Demo](https://networq-five.vercel.app/)  
    A **professional networking platform** built with **Next.js App Router, PostgreSQL, and Prisma**.  
@@ -53,6 +68,8 @@ I’m a **Software Engineering Intern at the [National Informatics Centre (NIC)]
 
 - 🔹 [**Portfolio Website**](https://portfolio-topaz-tau-21.vercel.app/)  
    My personal portfolio built with **Next.js** and **Tailwind CSS**, showcasing my projects, skills, and journey.  
+
+</details>
 
 ---
 

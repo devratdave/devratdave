@@ -78,9 +78,9 @@ I’m a **Software Engineering Intern at the [National Informatics Centre (NIC)]
 ```bash
 npx devratdave
 ```
-**👉 Find the CLI here: [npx devratdave](https://github.com/devratdave/business-card)**
+👉 Find the CLI here: **[npx devratdave](https://github.com/devratdave/business-card)**
 
-<h4>🌐 Connect with me</h4>
+## 🌐 Connect with me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/intent/follow?screen_name=dave_devrat)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devratdave/)

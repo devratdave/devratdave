@@ -2,8 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazI0djRvbzU5ZTk0MHlmbWlidjEzcjd0ZzRlcW9kc3QxNGxoYTZ2MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Jqy5D7DFs0i5EPkWfV/giphy.gif" width="230"/>
 
-I’m a **Software Engineering Intern at the [National Informatics Centre (NIC)](https://www.nic.gov.in/)**, currently based in **New Delhi, India**.  
-
+I’m a **SWE @ [Peppo](https://www.peppo.co.in/)**, currently based in **New Delhi, India**.  
 
 <details>
 
